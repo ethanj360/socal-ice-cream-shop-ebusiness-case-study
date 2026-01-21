@@ -14,7 +14,7 @@ The proposed solution focuses on:
 - Improving operational efficiency
 - Expanding revenue streams through online ordering and merchandise
 - Strengthening customer engagement and loyalty
-- Supporting scalable long term growth
+- Supporting scalable long-term growth
 
 ---
 
