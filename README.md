@@ -48,12 +48,12 @@ The proposed solution focuses on:
 - **SoCal Ice Cream Business Strategy Analysis.pdf**  
   Full written case study including analysis, strategy, requirements, and planning
 
-Full Essay: ![Essay](SoCal Ice Cream Business Strategy Analysis.pdf)
+Full Essay: [Essay](SoCal%20Ice%20Cream%20Business%20Strategy%20Analysis.pdf)
 
 - **socal-ice-cream-presentation.pdf**  
   Slide deck summarizing the business problem, proposed solution, and implementation plan
 
-Full Presentation: ![Presentation](socal-ice-cream-presentation.pdf)
+Full Presentation: [Presentation](socal-ice-cream-presentation.pdf)
 
 - **/images**  
   Visual assets including diagrams, WBS, and scheduling visuals
