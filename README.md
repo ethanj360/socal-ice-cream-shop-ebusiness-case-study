@@ -48,11 +48,19 @@ The proposed solution focuses on:
 - **SoCal Ice Cream Business Strategy Analysis.pdf**  
   Full written case study including analysis, strategy, requirements, and planning
 
+Full Essay: ![Essay](SoCal Ice Cream Business Strategy Analysis.pdf)
+
 - **socal-ice-cream-presentation.pdf**  
   Slide deck summarizing the business problem, proposed solution, and implementation plan
 
+Full Presentation: ![Presentation](socal-ice-cream-presentation.pdf)
+
 - **/images**  
-  Visual assets including diagrams, wireframes, WBS, and scheduling visuals
+  Visual assets including diagrams, WBS, and scheduling visuals
+
+  Example: 
+  ![Use Case](use-case-diagram-socal-icecream.png)
+  ![UserInterface](website-socal-icecream.png)
 
 ---
 
@@ -63,7 +71,9 @@ The proposed solution focuses on:
 - Requirements gathering and documentation  
 - Process modeling and planning  
 - Project management fundamentals  
-- Digital transformation planning  
+- Digital transformation planning/scheduling
+- Creative direction
+- User-Interface creation
 
 ---
 
