@@ -34,10 +34,10 @@ The proposed solution focuses on:
 
 ## Tools and Platforms Referenced
 
-- Wix (website hosting and design)
-- Shopify (eCommerce and order management)
-- Google Analytics (traffic and performance tracking)
-- SKU IQ (inventory management)
+- Wix 
+- Shopify 
+- Google Analytics
+- SKU IQ
 - SEO and digital advertising platforms
 - Social media platforms (Instagram, Facebook, Twitter)
 
