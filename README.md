@@ -72,8 +72,3 @@ The proposed solution focuses on:
 This project was completed as a team-based academic case study and is presented here as a portfolio example. All business details are hypothetical and used for demonstration purposes only.
 
 ---
-
-## Author
-
-Ethan Johnson  
-Business Analysis, eCommerce, and Digital Strategy
