@@ -59,8 +59,8 @@ Full Presentation: [Presentation](socal-ice-cream-presentation.pdf)
   Visual assets including diagrams, WBS, and scheduling visuals
 
   Example: 
-  ![Use Case](use-case-diagram-socal-icecream.png)
-  ![UserInterface](website-socal-icecream.png)
+  ![Use Case](images/use-case-diagram-socal-icecream.png)
+  ![UserInterface](images/website-socal-icecream.png)
 
 ---
 
